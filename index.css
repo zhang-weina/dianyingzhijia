@@ -1,0 +1,296 @@
+.head{
+	width: 1200px;
+	height: 70px;
+	margin: 0 auto;
+}
+.logo{
+	float: left;
+	color: #df9911;
+	font-family: '华文琥珀';
+	line-height: 70px;
+	padding-left: 20px;
+	padding-right: 130px;
+}
+.nav{
+	float: left;
+}
+.nav li{
+	float: left;
+	line-height: 70px;
+}
+.nav li a{
+	font-size: 18px;
+	color: #000;
+	padding-right: 40px;
+}
+.nav li a:hover{
+	color:#df9911;
+}
+.login a{
+	font-size:14px;
+	font-weight:400;
+	color:#000;
+	float: right;
+	line-height: 70px;
+	margin-left: 10px;
+}
+.head img{
+	float: right;
+	padding-top: 22px;
+	margin-left: 100px;
+}
+.form *{
+	float: right;
+	margin-top: 15px;
+	vertical-align: middle;
+}
+.form .search{
+	height: 40px;
+	width: 360px;
+	border: 1px solid #df9911;
+}
+.form .submit{
+	width: 50px;
+	height: 42px;
+	border: 1px solid #df9911;
+	background: #df9911 url(images/fa-search.png) no-repeat center center;
+}
+.loginbar{
+	width: 1200px;
+	margin: 0 auto;
+}
+.loginbar p{
+	font-size: 30px;
+	font-weight: bold;
+	color: #3c0e0e;
+	padding-bottom: 10px;
+}
+.form-2{
+	padding-bottom: 20px;
+	text-align: center;
+}
+.key{
+	height: 25px;
+	width: 200px;
+	padding-left: 15px;
+	border: 1px solid #3c0e0e;
+}
+.submit-two{
+	background-color: #3c0e0e;
+	color: #fff;
+	width: 50px;
+	height: 40px;
+	margin-left: 15px;
+}
+.banner{
+	width: 100%;
+	height: 515px;
+	overflow: hidden;
+	background-color: #3c0e0e;
+	border-bottom: 2px solid #fff
+}
+.bg{
+	width: 1200px;
+	height: 515px;
+	margin: 0 auto;
+	background: url('images/banner.png') no-repeat center;
+	position: relative;
+}
+.text{
+	position: absolute;
+	left: 20px;
+	top: 80px;
+}
+.text p{
+	font-size: 50px;
+	font-weight: bold;
+	color: #fff;
+}
+
+.text a{
+	display: inline-block;
+	width: 150px;
+	height: 55px;
+	font-weight: bold;
+	font-size: 18px;
+	color: #fff;
+	text-align: center;
+	line-height: 55px;
+	margin-top: 130px;
+	background-color: #df9911;
+}
+.column-one{
+	width: 1400px;
+	height: 608px;
+	margin: 0 auto;
+	margin-top: 80px;
+	position: relative;
+}
+.imgs{
+	width: 915px;
+	float: left;
+}
+.imgs img{
+	padding-right: 10px;
+}
+.in{
+	width: 500px;
+	position: absolute;
+	top: 100px;
+	left: 915px;
+}
+.movie{
+	font-size: 50px;
+	padding-bottom: 30px;
+}
+.time{
+	font-size: 18px;
+	padding-bottom: 40px;
+}
+.present{
+	font-size: 16px;
+	padding-bottom: 60px;
+}
+.in a{
+	display: inline-block;
+	width: 165px;
+	height: 55px;
+	text-align: center;
+	line-height: 55px;
+	background-color: #df9911;
+	color: #fff;
+	font-size: 18px;
+}
+.column{
+	background-color: #3c0e0e;
+}
+.subnav{
+	width: 1200px;
+	height: 60px;
+	margin: 0 auto;
+	border-bottom: 2px solid #fff;
+}
+.main{
+	float: left;
+}
+.main li{
+	float: left;
+}
+.main li a{
+	display: inline-block;
+	font-size: 18px;
+	color: #fff;
+	padding-left: 64px;
+	padding-top: 21px;
+}
+.first{
+	padding-left: 110px;
+}
+.main li a:hover{
+	color: #d89616;
+}
+.content-one{
+	width: 1400px;
+	margin: 0 auto;
+	margin-top: 80px;
+}
+.content-one h2{
+	font-size: 24px;
+	color: #fff;
+}
+.content-one a{
+	color: #DF9911;
+	font-size: 18px;
+	float: right;
+}
+.intro{
+	width: 100%;
+	height: 358px;
+	padding-top: 30px;
+}
+.intro img{
+	float: left;
+	padding-left: 30px;
+}
+.character div{
+	width: 244px;
+	float: left;
+	padding-left: 30px;
+	padding-top: 20px;
+	text-align: center;
+}
+.character div p{
+	color: #fff;
+	font-size: 15px;
+}
+.character div .name{	
+	font-size: 20px;
+}
+.last{
+	width: 213px;
+	height: 60px;
+	margin: 0 auto;
+	margin-top: 90px;
+	padding-bottom: 20px;
+}
+.last a{
+	display: inline-block;
+	width: 213px;
+	height: 60px;
+	background-color: #df9911;
+	color: #fff;
+	font-size: 18px;
+	line-height: 60px;
+	text-align: center;
+}
+.copyright-1{
+	background-color: #212121;
+	height: 500px;
+}
+.copyright{
+	background-color: #212121;
+	color: #fff;
+	height: 400px;
+	width: 1400px;
+	margin: 0 auto;
+	border-bottom: 1px solid #fff;
+	position: relative;
+}
+.footer-one{
+	width: 280px;
+	height: 200px;
+	position: absolute;
+	left: 200px;
+	top: 100px;
+}
+.footer-one h3{
+	font-size: 25px;
+}
+.footer-one p{
+	font-size: 18px;
+}
+.footer-two{
+	width: 157px;
+	height: 235px;
+	position: absolute;
+	right: 200px;
+	top: 100px;
+}
+.footer-two h3{
+	font-size: 25px;
+}
+.footer-two p{
+	font-size: 18px;
+}
+.copyright-2{
+	width: 1400px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+}
+.copyright-2 p{
+	line-height: 99px;
+}
+
+
+	
